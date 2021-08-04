@@ -13,8 +13,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>1.6</maven.compiler.source>
-		<maven.compiler.target>1.6</maven.compiler.target>
+		
 	</properties>
 
 	<dependencies>
@@ -35,9 +34,10 @@
 <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
-    <version>6.8</version>
+    <version>7.4.0</version>
     <scope>test</scope>
 </dependency>
+
 
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>
